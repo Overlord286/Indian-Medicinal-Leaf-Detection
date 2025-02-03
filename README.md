@@ -1,1 +1,0 @@
-# Indian-Medicinal-Leaf-Detection
